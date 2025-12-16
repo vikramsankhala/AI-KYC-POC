@@ -1,0 +1,18 @@
+﻿Field,Contract 1,Contract 2,Status
+Amount,Total: 56 (46 systems),Total: 55 (45 systems),Changed
+System Name,"GRC DEV System (App server), Additional Storage for S/4 DEV, DS QAS System (App server)... (46 total)","GRC DEV System (App server), Migration Server (Domestic), DS QAS System (App server)... (45 total)",Changed
+Service,"App.-Server for SAP LT Replication Server, SAP BusinessObjects Data Services, SAP Cloud Connector PRD... (13 total)","App.-Server for SAP LT Replication Server, SAP BusinessObjects Data Services, SAP Cloud Connector PRD... (13 total)",Unchanged
+Database,"ASE, HANA as DB","ASE, HANA as DB",Unchanged
+Tier-Name,"PRD, QAS, SBX3... (6 total)","SBX2, PRD, QAS... (6 total)",Changed
+Tier Type,"nonPROD, PROD","nonPROD, PROD",Unchanged
+RAM,"Total: 9,968 (44 systems)","Total: 9,968 (44 systems)",Unchanged
+No. of add HANA nodes,N/A,N/A,Unchanged
+No. of Standby nodes,"Total: 30,784 (46 systems)","Total: 39,516 (45 systems)",Changed
+Storage Information,"Backup-1GB-FS-Mly-full+Dly-incr-2M, Backup-1GB-Wly-2W, Backup-1GB-Dly-1M","Backup-1GB-FS-Mly-full+Dly-incr-2M, Backup-1GB-Wly-2W, Backup-1GB-Dly-1M",Unchanged
+OS,Linux,Linux,Unchanged
+SLA,"95.00%, 99.70%","95.00%, 99.70%, 5",Changed
+DR,DR_12h_0m,DR_12h_0m,Unchanged
+Add HW for DR,"2, 3, 4... (4 total)","2, 3, 4... (4 total)",Unchanged
+Pacemaker Included,N/A,N/A,Unchanged
+Phase,N/A,N/A,Unchanged
+Server,N/A,N/A,Unchanged

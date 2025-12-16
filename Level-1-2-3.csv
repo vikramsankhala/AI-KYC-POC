@@ -1,0 +1,11 @@
+Level 1 (Solution),Level 2 (Tier),Contract 1,Contract 2,Status
+,,"IaaS Basic, Additional Storage - Filesystem, SAP BusinessObjects Data Services... (12 total)","IaaS Basic, Additional Storage - Filesystem, SAP BusinessObjects Data Services... (13 total)",Changed
+Cloud Connector,,SAP Cloud Connector,"SAP Cloud Connector DEV, SAP Cloud Connector PRD",Changed
+Cloud Connector,PROD - PRD,SAP Cloud Connector,SAP Cloud Connector PRD,Changed
+Cloud Connector,PROD - PRD,SAP Cloud Connector,SAP Cloud Connector PRD,Changed
+Cloud Connector,nonPROD - DEV,SAP Cloud Connector,SAP Cloud Connector DEV,Changed
+Cloud Connector,nonPROD - DEV,SAP Cloud Connector,SAP Cloud Connector DEV,Changed
+Additional Storage - Filesystem,nonPROD - DEV,20480,5120,Changed
+Additional Storage - Filesystem,nonPROD - DEV,N/A,Linux,Changed
+Cloud Connector,PROD - PRD,SAP Cloud Connector,SAP Cloud Connector PRD,Changed
+Cloud Connector,nonPROD - DEV,SAP Cloud Connector,SAP Cloud Connector DEV,Changed
